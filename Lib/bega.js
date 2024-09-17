@@ -10,4 +10,4 @@ Then tap on the song that you want and enjoy
 
 Bot link
 
-"https://t.me/@mrbarakabot"
+"https://t.me/@mrbarakabot" start
